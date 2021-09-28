@@ -1,0 +1,112 @@
+{
+    "image": "src/images/ori.jpg",
+    "fullName": "Nommel Isanar Lavapie Amolat",
+    "labels": ["Introvert", "Socially Awkward", "Taciturn", "Pacifist"],
+    "quote": {
+        "text": "An eye for an eye and the world goes blind.",
+        "author": "- Markus"
+    },
+    "personal": [
+        [
+            ["Given Name", "Nommel Isanar"],
+            ["Middle Name", "Lavapie"],
+            ["Family Name", "Amolat"]
+        ],
+        [
+            ["Gender", "Male"]
+        ],
+        [
+            ["Religion", "Roman Catholic"]
+        ],
+        [
+            ["Civil Status", "Single"]
+        ],
+        [
+            ["Height", "161 centimeters"]
+        ]
+    ],
+    "education": [
+        [
+            "2018 - Present",
+            "Cavite State University",
+            "Bachelor of Science in Information Technology"
+        ],
+        [
+            "2016 - 2018",
+            "City of Bacoor Senior High School - San Nicholas",
+            "Technical Vocational: ICT"
+        ]
+    ],
+    "mastery": [
+        ["3D Development", "darkorange", 0.3],
+        ["Computer Hardware", "darkred", 0.4],
+        ["Image Manipulation", "darkblue", 0.5],
+        ["Networking", "#013220", 0.2],
+        ["Programming", "#9B870C", 0.75],
+        ["Video Manipulation", "#301934", 0.3]
+    ],
+    "experience": [
+        [
+            "June 2020 - August 2020",
+            "Time Wizard Studios",
+            "Game Programmer"
+        ],
+        [
+            "April 2018 - July 2018",
+            "Menandro's Printing Station",
+            "Shop Assistant"
+        ],
+        [
+            "January 3, 2018 - January 18, 2018",
+            "Marilans Graphics and Printing",
+            "Internship"
+        ]
+    ],
+    "seminar": [
+        [
+            "November 23, 2018",
+            "Spectrum of Opportunities: Learn, Innovate & Motivate",
+            "Cavite State University - Bacoor City Campus"
+        ]
+    ],
+    "recognition": [
+        [
+            ["Rank 1 in Class", "August 2017"],
+            ["Rank 1 in Class", "April 2017"],
+            ["Rank 1 in Class and School", "February 2017"]
+        ],
+        [
+            ["Rank 5 in Technical Vocational Track", "December 2016"]
+        ],
+        [
+            ["Best Layout Artist in Filipino Collaborative Publishing", "October 2015"]
+        ],
+        [
+            ["Best in T.L.E", "March 2014"],
+            ["Most Punctual in Class", "March 2014"]
+        ],
+        [
+            ["Rank 7 in Filipino Sports Writing", "August 2010"]
+        ]
+    ],
+    "presence": [
+        [
+            ["Codewars", "https://www.codewars.com/users/nommel-isanar"]
+        ],
+        [
+            ["Google", "nommel.isanar.lavapie.amolat@gmail.com"]
+        ],
+        [
+            ["GitHub", "https://github.com/NI-L-A"]
+        ],
+        [
+            ["Lemma Soft Forums", "https://lemmasoft.renai.us/forums/memberlist.php?mode=viewprofile&u=48766"]
+        ],
+        [
+            ["Stackoverflow", "https://stackoverflow.com/users/14733693/nila"]
+        ],
+        [
+            ["Youtube", "https://www.youtube.com/channel/UCvC3j5qeswc5SY09JLiMBFw"]
+        ]
+    ]
+}
