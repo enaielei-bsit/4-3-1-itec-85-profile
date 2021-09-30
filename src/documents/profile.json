@@ -1,5 +1,5 @@
 {
-    "image": "src/images/ori.jpg",
+    "image": "./../images/ori.jpg",
     "fullName": "Nommel Isanar Lavapie Amolat",
     "labels": ["Introvert", "Socially Awkward", "Taciturn", "Pacifist"],
     "quote": {

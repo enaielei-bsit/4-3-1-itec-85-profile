@@ -1,6 +1,17 @@
-import dateFormat from "../../third-party/dateformat/dist/dateformat.js";
+// Styles
+import "./../third_party/semantic/dist/semantic.css";
+import "./../styles/main.scss";
 
-export const ProfilePath = "../../src/documents/profile.json";
+// Libraries
+import dateFormat from "dateformat";
+import "./../third_party/semantic/dist/semantic.js";
+
+// Documents
+import profilePath from "./../documents/profile.json";
+
+// TODO: Load assets from json.
+const img = require(profilePath["image"] + "");
+profilePath["image"] = img;
 
 export class Profile {
     static get _listItem() { return getTemplate("#_template-profile-list-item"); }
@@ -235,10 +246,11 @@ export function setProfile(profile) {
 
 $(() => {
     initialize();
-    $.getJSON(ProfilePath, (json) => {
-        let profile = json;
-        setProfile(profile);
+    setProfile(profilePath);
+    // $.getJSON(profilePath, (json) => {
+    //     let profile = json;
+    //     setProfile(profile);
 
-    });
+    // });
 
 });
