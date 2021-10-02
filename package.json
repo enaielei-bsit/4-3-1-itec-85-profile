@@ -7,11 +7,18 @@
     "lint": "prettier --check \"src/**/*.{ts,js}\""
   },
   "dependencies": {
-    "canvas-confetti": "^1.2.0"
+    "canvas-confetti": "^1.2.0",
+    "dateformat": "^5.0.1",
+    "fomantic-ui": "^2.8.8",
+    "js-quantities": "^1.7.6"
   },
   "devDependencies": {
+    "@snowpack/plugin-sass": "^1.4.0",
     "@snowpack/plugin-typescript": "^1.2.1",
     "@types/canvas-confetti": "^1.0.0",
+    "@types/dateformat": "^3.0.1",
+    "@types/jquery": "^3.5.6",
+    "@types/js-quantities": "^1.6.2",
     "@types/snowpack-env": "^2.3.3",
     "prettier": "^2.2.1",
     "snowpack": "^3.3.7",
