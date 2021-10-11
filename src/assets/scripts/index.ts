@@ -1,6 +1,6 @@
 import dateFormat from "dateformat";
-import "./../third-party/jquery/jquery.min.js";
-import "./../third-party/semantic/semantic.min.js";
+import "./../../third-party/jquery/jquery.min.js";
+import "./../../third-party/semantic/semantic.min.js";
 
 import Profile from "./profile.js";
 
@@ -197,5 +197,5 @@ class Page {
 
 }
 
-const ProfilePath = "/assets/documents/profile.json";
+const ProfilePath = "./assets/documents/profile.json";
 Page.initialize(ProfilePath);
